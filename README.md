@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! I'm Rohit👋
-
 ### 💫 About Me:
 A Devops Engineer (DevOps, Cloud Platform Engineer)
 
